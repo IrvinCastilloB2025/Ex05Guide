@@ -96,17 +96,14 @@ public class Store {
                 similarly, use getCost() from Item.java to get the cost
         
         
-            create for loop to check if name parameter matches a name in the item list{
-                possible references:
-                    https://betterprogramming.pub/three-ways-to-check-for-a-value-in-an-array-5976b8fe030d
-                    https://www.google.com/search?q=for+loop+to+check+if+element+is+in+array&oq=for+loop+to+check+if+element+is+in+array&aqs=chrome..69i57j33i160j33i22i29i30l8.7464j0j7&sourceid=chrome&ie=UTF-8
+            https://betterprogramming.pub/three-ways-to-check-for-a-value-in-an-array-5976b8fe030d
+            https://www.google.com/search?q=for+loop+to+check+if+element+is+in+array&oq=for+loop+to+check+if+element+is+in+array&aqs=chrome..69i57j33i160j33i22i29i30l8.7464j0j7&sourceid=chrome&ie=UTF-8
                 
-                if (you found it){
-                    this.earnings += get cost of item from index
-                    print that item was sold
-                }
+            if (you found it){
+                this.earnings += get cost of item from index
+                print that item was sold
             }
-            
+                        
             if item was not found, print that store does not sell item
         */
     }
